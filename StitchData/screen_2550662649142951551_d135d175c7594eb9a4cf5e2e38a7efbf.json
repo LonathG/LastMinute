@@ -1,0 +1,28 @@
+{
+  "jsonrpc": "2.0",
+  "id": 4,
+  "result": {
+    "content": [
+      {
+        "text": "{\"name\":\"projects/2550662649142951551/screens/d135d175c7594eb9a4cf5e2e38a7efbf\",\"title\":\"Statistics\",\"screenshot\":{\"name\":\"projects/7251014060582631050/screens/d135d175c7594eb9a4cf5e2e38a7efbf/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1VPNsrryEjfSBqgM7HOGNzYQ95vv8VnXw2lZZpPyyHX4d_9IClpU3yiQrDkodBwnoCqmDuwk3eWu_8vwV05kJNXz0HHt30bZnmZu6fa9h9miEnznPj_ykWiLvXW4AKwspavxp52GHX03UgoKNJ5LgInx70ZQmflEw89iS6njJ6GMTdX1GNqglZH0nXgiz_fqw8IOf5uti3596K9PM3HTyPr2LO7PGntCmS-hwMsre5lLQZh0N5Zh1HsoOk\"},\"htmlCode\":{\"name\":\"projects/7251014060582631050/screens/d135d175c7594eb9a4cf5e2e38a7efbf/fileEntries/html\",\"downloadUrl\":\"https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlNjEwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"3304\",\"deviceType\":\"MOBILE\"}",
+        "type": "text"
+      }
+    ],
+    "structuredContent": {
+      "deviceType": "MOBILE",
+      "height": "3304",
+      "htmlCode": {
+        "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlNjEwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086",
+        "mimeType": "text/html",
+        "name": "projects/7251014060582631050/screens/d135d175c7594eb9a4cf5e2e38a7efbf/fileEntries/html"
+      },
+      "name": "projects/2550662649142951551/screens/d135d175c7594eb9a4cf5e2e38a7efbf",
+      "screenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VPNsrryEjfSBqgM7HOGNzYQ95vv8VnXw2lZZpPyyHX4d_9IClpU3yiQrDkodBwnoCqmDuwk3eWu_8vwV05kJNXz0HHt30bZnmZu6fa9h9miEnznPj_ykWiLvXW4AKwspavxp52GHX03UgoKNJ5LgInx70ZQmflEw89iS6njJ6GMTdX1GNqglZH0nXgiz_fqw8IOf5uti3596K9PM3HTyPr2LO7PGntCmS-hwMsre5lLQZh0N5Zh1HsoOk",
+        "name": "projects/7251014060582631050/screens/d135d175c7594eb9a4cf5e2e38a7efbf/fileEntries/screenshot"
+      },
+      "title": "Statistics",
+      "width": "780"
+    }
+  }
+}

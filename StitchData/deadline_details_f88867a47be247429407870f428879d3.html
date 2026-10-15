@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport"/><meta content="mobile_stack" name="shell-type"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{width:100%;margin:0;padding:0;background-color:#131313;color:#e5e2e1;font-family:'Plus Jakarta Sans',sans-serif;}body{overscroll-behavior-y:none;-webkit-tap-highlight-color:transparent;}.pb-safe{padding-bottom:env(safe-area-inset-bottom,0px);}.pt-safe{padding-top:env(safe-area-inset-top,0px);}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config={darkMode:"class",theme:{extend:{"colors":{"on-primary-fixed":"#251a00","error-container":"#93000a","tertiary-fixed":"#a4f3cc","secondary-fixed-dim":"#ecc06f","on-surface":"#e5e2e1","on-tertiary-container":"#0c6648","surface-container-low":"#1c1b1b","on-error":"#690005","secondary":"#ecc06f","inverse-primary":"#765a14","on-background":"#e5e2e1","outline":"#998f7f","on-error-container":"#ffdad6","surface-dim":"#131313","surface-tint":"#e7c272","on-tertiary-fixed-variant":"#005138","tertiary-fixed-dim":"#88d6b1","background":"#131313","primary-fixed-dim":"#e7c272","primary":"#ffebc6","surface-container":"#201f1f","surface-variant":"#353535","tertiary-container":"#92e1bb","surface-container-high":"#2a2a2a","on-secondary-fixed":"#271900","on-primary-fixed-variant":"#5b4300","inverse-surface":"#e5e2e1","secondary-fixed":"#ffdea6","surface-container-lowest":"#0e0e0e","on-secondary":"#412d00","on-secondary-fixed-variant":"#5d4200","surface-container-highest":"#353535","on-secondary-container":"#e7bc6c","outline-variant":"#4d4638","on-tertiary":"#003825","secondary-container":"#694b00","primary-container":"#f2cc7b","tertiary":"#aefed6","on-primary-container":"#70550e","on-surface-variant":"#d0c5b3","primary-fixed":"#ffdf9d","surface-bright":"#393939","inverse-on-surface":"#313030","error":"#ffb4ab","surface":"#131313","on-primary":"#3f2e00","on-tertiary-fixed":"#002114"},"borderRadius":{"DEFAULT":"0.25rem","lg":"0.5rem","xl":"0.75rem","full":"9999px"},"spacing":{"gutter-tablet":"1.5rem","margin":"1rem","space-xl":"2rem","space-xs":"0.25rem","margin-tablet":"2rem","gutter":"1rem","space-md":"1rem","space-sm":"0.5rem","space-lg":"1.5rem"},"fontFamily":{"body-lg":["Plus Jakarta Sans"],"display-countdown-mobile":["Plus Jakarta Sans"],"headline-md":["Plus Jakarta Sans"],"headline-lg-mobile":["Plus Jakarta Sans"],"display-countdown":["Plus Jakarta Sans"],"headline-lg":["Plus Jakarta Sans"],"headline-sm":["Plus Jakarta Sans"],"label-caps":["Plus Jakarta Sans"],"label-numeric-mono":["Plus Jakarta Sans"],"body-md":["Plus Jakarta Sans"],"caption":["Plus Jakarta Sans"]},"fontSize":{"body-lg":["17px",{"lineHeight":"24px","letterSpacing":"0em","fontWeight":"400"}],"display-countdown-mobile":["44px",{"lineHeight":"48px","letterSpacing":"-0.025em","fontWeight":"700"}],"headline-md":["22px",{"lineHeight":"28px","letterSpacing":"-0.01em","fontWeight":"600"}],"headline-lg-mobile":["28px",{"lineHeight":"34px","letterSpacing":"-0.015em","fontWeight":"700"}],"display-countdown":["56px",{"lineHeight":"60px","letterSpacing":"-0.03em","fontWeight":"700"}],"headline-lg":["34px",{"lineHeight":"41px","letterSpacing":"-0.02em","fontWeight":"700"}],"headline-sm":["17px",{"lineHeight":"22px","letterSpacing":"-0.005em","fontWeight":"600"}],"label-caps":["11px",{"lineHeight":"13px","letterSpacing":"0.06em","fontWeight":"600"}],"label-numeric-mono":["14px",{"lineHeight":"18px","letterSpacing":"0.02em","fontWeight":"600"}],"body-md":["15px",{"lineHeight":"20px","letterSpacing":"0em","fontWeight":"400"}],"caption":["12px",{"lineHeight":"16px","letterSpacing":"0em","fontWeight":"400"}]}}}}</script><style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head><body class="bg-surface text-on-surface min-h-screen flex flex-col antialiased selection:bg-primary-container selection:text-on-primary-container"><header class="fixed top-0 inset-x-0 z-50 bg-surface/85 backdrop-blur-xl pt-safe shadow-[0_1px_12px_rgba(0,0,0,0.35)]"><div class="h-11 px-margin flex items-center justify-between text-on-surface"><span class="font-label-numeric-mono text-label-numeric-mono font-semibold tracking-tight">9:41</span><div class="flex items-center gap-space-xs"><span class="material-symbols-outlined text-[16px]">signal_cellular_alt</span><span class="material-symbols-outlined text-[16px]">wifi</span><span class="material-symbols-outlined text-[18px]">battery_full</span></div></div><div class="h-14 px-margin flex items-center justify-between"><div class="flex items-center gap-space-xs"><button aria-label="Go back" class="w-11 h-11 flex items-center justify-center -ml-2 rounded-full text-primary-container hover:text-on-surface transition-colors" onclick="history.back()" type="button"><span class="material-symbols-outlined text-[24px]">arrow_back_ios_new</span></button><img alt="LastMinute App Logo" class="h-7 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1W4CJVgBaVS_88qc_NfOmvatp9ZdTpddcqJxBXQrxlnXQSkH0rMXGrWwx-01WBTDvnL69a4crEYDe5v9yIj-I7X8g_56hRfg6g6vbZZDr_waXeukdiFT5QBVLmV7VaE8rd4bz_WXO7w98QN7w832Amrlg5Xz8cXFXoZbhnf6-w4YPxyVuGSpJz2tiNI-zFLR7IBLNCWW0zRwcUOLkwPvDC2x3M5EF56gu15jbNj8pabwwhfA-jB3QbfGJQ"/><h1 class="font-headline-sm text-headline-sm text-on-surface ml-1">Deadline Details</h1></div><div class="flex items-center gap-space-xs"><img alt="Profile" class="w-8 h-8 rounded-full object-cover ring-1 ring-outline-variant/40" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCZODvBsvuYg3A5eUI4FKK7pfE9TVpZanYYqA54pO9L3awXH0dPPFMf9ISnb9xT9ukX1cuYzlFhtwsArYXUcEnJGssqHzUEWzVb4mm1KyDu-slUEc6c-5rvVLng9TvnemN66jGU_P3_U-8lXsWQqDr04xLk6zh38UrVYVLhkCId0LQlhMWKcvYLk5lSKAItExylItBXNgxL85MiDbgC6a6ZmJ75gKNvN0yjviJD2o_dQBv5FaZ0tGy_"/></div></div></header><main class="flex flex-col relative w-full pt-28 pb-safe bg-surface min-h-screen px-margin"><div class="flex flex-col w-full pb-8 space-y-space-md">
+<!-- Breadcrumb / Auxiliary In-Page Header Bar -->
+<div class="flex items-center justify-between py-space-xs">
+<button class="flex items-center gap-1 text-primary-container hover:opacity-80 transition-opacity" onclick="history.back()" type="button">
+<span class="material-symbols-outlined text-[20px]">chevron_left</span>
+<span class="font-headline-sm text-headline-sm text-primary-container">Back</span>
+</button>
+<div class="font-headline-sm text-headline-sm text-on-surface">Deadline Details</div>
+<button class="font-headline-sm text-headline-sm text-primary-container hover:opacity-80 transition-opacity" id="topEditBtn" type="button">
+      Edit
+    </button>
+</div>
+<!-- Hero Card with Ambient Radiance Glow -->
+<div class="relative rounded-3xl bg-surface-container-high p-6 shadow-2xl overflow-hidden transition-all duration-300">
+<!-- Atmospheric gold back-glow for imminent deadline vibe -->
+<div class="absolute -top-12 -right-12 w-48 h-48 bg-primary-container/15 rounded-full blur-3xl pointer-events-none"></div>
+<div class="absolute -bottom-16 -left-16 w-44 h-44 bg-primary/10 rounded-full blur-3xl pointer-events-none"></div>
+<div class="relative flex flex-col space-y-4">
+<!-- Badge Row -->
+<div class="flex items-center justify-between">
+<span class="inline-flex items-center px-3 py-1 rounded-full bg-surface-container-lowest text-primary-container font-label-caps text-label-caps uppercase tracking-wider">
+          SE4041 — MADD
+        </span>
+<div class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-error-container/40 text-error">
+<span class="w-1.5 h-1.5 rounded-full bg-error animate-pulse"></span>
+<span class="font-label-caps text-label-caps uppercase tracking-wider">High Priority</span>
+</div>
+</div>
+<!-- Title & Time Metadata -->
+<div>
+<h2 class="font-headline-lg-mobile text-headline-lg-mobile text-on-surface tracking-tight">
+          Mobile App Assignment
+        </h2>
+<div class="flex items-center gap-2 mt-2 text-on-surface-variant font-body-md text-body-md">
+<span class="material-symbols-outlined text-[18px] text-primary-container">event</span>
+<span>Friday, 20 November 2026 at 11:59 PM</span>
+</div>
+</div>
+<!-- Live Focal Countdown Timer Container -->
+<div class="mt-2 pt-5 bg-surface-container-lowest/80 rounded-2xl p-4 shadow-inner flex flex-col items-center justify-center">
+<!-- Tabular Digits -->
+<div class="flex items-baseline justify-center gap-1 sm:gap-2 text-primary-container drop-shadow-[0_0_16px_rgba(242,204,123,0.35)]">
+<div class="flex flex-col items-center min-w-[58px]">
+<span class="font-display-countdown-mobile text-display-countdown-mobile tracking-tight" id="timer-days">02</span>
+<span class="font-label-caps text-label-caps text-outline uppercase tracking-widest mt-1">Days</span>
+</div>
+<span class="font-headline-md text-headline-md text-primary-container/50 pb-5">:</span>
+<div class="flex flex-col items-center min-w-[58px]">
+<span class="font-display-countdown-mobile text-display-countdown-mobile tracking-tight" id="timer-hours">14</span>
+<span class="font-label-caps text-label-caps text-outline uppercase tracking-widest mt-1">Hours</span>
+</div>
+<span class="font-headline-md text-headline-md text-primary-container/50 pb-5">:</span>
+<div class="flex flex-col items-center min-w-[58px]">
+<span class="font-display-countdown-mobile text-display-countdown-mobile tracking-tight" id="timer-mins">35</span>
+<span class="font-label-caps text-label-caps text-outline uppercase tracking-widest mt-1">Minutes</span>
+</div>
+<span class="font-headline-md text-headline-md text-primary-container/50 pb-5">:</span>
+<div class="flex flex-col items-center min-w-[58px]">
+<span class="font-display-countdown-mobile text-display-countdown-mobile tracking-tight text-primary" id="timer-secs">22</span>
+<span class="font-label-caps text-label-caps text-outline uppercase tracking-widest mt-1">Seconds</span>
+</div>
+</div>
+<!-- Assignment Timeline Elapsed Gauge -->
+<div class="w-full mt-5">
+<div class="flex justify-between items-center mb-1.5 font-label-numeric-mono text-label-numeric-mono text-outline">
+<span class="flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px] text-primary-container">timelapse</span>
+              Window Elapsed
+            </span>
+<span class="text-primary-container font-semibold">68%</span>
+</div>
+<div class="w-full h-2 rounded-full bg-surface-container-high overflow-hidden">
+<div class="h-full bg-gradient-to-r from-secondary-container via-primary-container to-primary rounded-full transition-all duration-700" style="width: 68%;"></div>
+</div>
+<div class="flex justify-between items-center mt-1.5 font-caption text-caption text-outline">
+<span>Assigned Nov 1</span>
+<span>Due Nov 20</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Deliverable Context Snapshot (Asset Visual Richness) -->
+<div class="relative rounded-2xl overflow-hidden bg-surface-container shadow-md">
+<div class="relative h-28 w-full bg-surface-container-high">
+<img class="w-full h-full object-cover opacity-60" data-alt="Editorial close up aesthetic macro shot of modern dark glass workspace featuring high-end horology instrument mechanical tourbillon watch on obsidian granite desk surrounded by champagne gold lighting accents and minimal sleek code blueprints" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDscpx8zN-59xqwaekM2NAz6f51Pfo8MjElMhBSmqdaib26yVXwayWIMPxXDVJ9MCTr9vJXrTsnsVG10_7bDsqVJ_6v5dldl9RbnYZTEb63NEKAGcDPBY0espKwtRj-6FlRMdbPU1nP6a1wODppDCL09QCED1NVDi0JOr3rDpCype8JG-cYcuIdzwTqh38Rruervsod1euq_qN9FeKee3QItNP4igrR2w1g3c0kRbcvkB8pr4k4ZqCM"/>
+<div class="absolute inset-0 bg-gradient-to-t from-surface-container via-surface-container/60 to-transparent"></div>
+<div class="absolute bottom-3 left-4 right-4 flex items-center justify-between">
+<span class="font-headline-sm text-headline-sm text-on-surface">Deliverable Spec</span>
+<span class="font-label-caps text-label-caps bg-surface-container-lowest/80 px-2 py-0.5 rounded text-tertiary">SwiftUI 5.0</span>
+</div>
+</div>
+</div>
+<!-- Information List Sections (iOS Grouped Style) -->
+<div class="space-y-space-md">
+<!-- Section 1: Academic Notes -->
+<div class="flex flex-col space-y-1.5">
+<div class="px-2 font-label-caps text-label-caps uppercase text-outline tracking-wider">
+        Academic Instructions
+      </div>
+<div class="bg-surface-container rounded-2xl p-4 shadow-sm">
+<div class="flex items-start gap-3">
+<div class="p-2 rounded-xl bg-surface-container-high text-primary-container mt-0.5">
+<span class="material-symbols-outlined text-[20px]">description</span>
+</div>
+<div class="flex flex-col space-y-1">
+<span class="font-headline-sm text-headline-sm text-on-surface">Submission Scope</span>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+              Submit final zip archive containing SwiftUI source code, design specification PDF, and demo video link to Canvas portal before 11:59 PM.
+            </p>
+</div>
+</div>
+</div>
+</div>
+<!-- Section 2: Reminder & Sync Status -->
+<div class="flex flex-col space-y-1.5">
+<div class="px-2 font-label-caps text-label-caps uppercase text-outline tracking-wider">
+        System &amp; Sync Telemetry
+      </div>
+<div class="bg-surface-container rounded-2xl divide-y-0 shadow-sm flex flex-col space-y-1 p-1">
+<!-- Smart Reminder Row -->
+<div class="flex items-center justify-between p-3 rounded-xl hover:bg-surface-container-high/40 transition-colors">
+<div class="flex items-center gap-3">
+<div class="w-9 h-9 rounded-full bg-surface-container-high flex items-center justify-center text-primary-container">
+<span class="material-symbols-outlined text-[19px]">notifications_active</span>
+</div>
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-on-surface">Smart Alert</span>
+<span class="font-caption text-caption text-on-surface-variant">1 day before (19 Nov, 11:59 PM)</span>
+</div>
+</div>
+<span class="material-symbols-outlined text-outline text-[18px]">verified</span>
+</div>
+<!-- Apple Calendar Row -->
+<div class="flex items-center justify-between p-3 rounded-xl hover:bg-surface-container-high/40 transition-colors">
+<div class="flex items-center gap-3">
+<div class="w-9 h-9 rounded-full bg-tertiary-container/20 flex items-center justify-center text-tertiary">
+<span class="material-symbols-outlined text-[19px]">event_available</span>
+</div>
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-on-surface">Calendar Integration</span>
+<span class="font-caption text-caption text-on-surface-variant">Synced to “Academic” calendar</span>
+</div>
+</div>
+<span class="font-label-caps text-label-caps px-2 py-0.5 rounded bg-tertiary-container/30 text-tertiary font-medium">Synced</span>
+</div>
+<!-- Execution Status Row -->
+<div class="flex items-center justify-between p-3 rounded-xl hover:bg-surface-container-high/40 transition-colors">
+<div class="flex items-center gap-3">
+<div class="w-9 h-9 rounded-full bg-secondary-container/40 flex items-center justify-center text-secondary">
+<span class="material-symbols-outlined text-[19px]">hourglass_top</span>
+</div>
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-on-surface">Workflow State</span>
+<span class="font-caption text-caption text-on-surface-variant">Milestone active</span>
+</div>
+</div>
+<span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-secondary-container text-on-secondary-container font-label-caps text-label-caps">
+<span class="w-1.5 h-1.5 rounded-full bg-primary-container animate-ping"></span>
+            In Progress
+          </span>
+</div>
+</div>
+</div>
+</div>
+<!-- Micro-Progress Indicator / Velocity Note -->
+<div class="flex items-center gap-3 bg-surface-container-low p-3.5 rounded-xl text-on-surface-variant">
+<span class="material-symbols-outlined text-primary-container text-[20px]">bolt</span>
+<span class="font-caption text-caption leading-tight">Focus session recommended: schedule 2 hours today to complete design specs and avoid last-hour upload bottlenecks.</span>
+</div>
+<!-- Bottom Ergonomic Action Group -->
+<div class="pt-4 flex flex-col space-y-3">
+<!-- Primary CTA: Mark as Completed -->
+<button class="w-full h-[50px] bg-primary-container text-on-primary-fixed rounded-2xl font-headline-sm text-headline-sm font-semibold flex items-center justify-center gap-2 active:scale-[0.98] transition-all shadow-[0_4px_20px_rgba(242,204,123,0.25)] hover:brightness-105" id="markCompleteBtn" type="button">
+<span class="material-symbols-outlined text-[22px] font-bold text-on-tertiary-container">check_circle</span>
+<span>Mark as Completed</span>
+</button>
+<!-- Secondary CTA: Edit Deadline -->
+<button class="w-full h-[50px] bg-surface-container-high text-on-surface rounded-2xl font-headline-sm text-headline-sm flex items-center justify-center gap-2 active:scale-[0.98] transition-all hover:bg-surface-variant" id="editDeadlineBtn" type="button">
+<span class="material-symbols-outlined text-[20px] text-outline">tune</span>
+<span>Edit Deadline</span>
+</button>
+<!-- Destructive Action: Delete Deadline with Confirmation Overlay Hook -->
+<button class="w-full py-3.5 text-error rounded-xl font-headline-sm text-headline-sm flex items-center justify-center gap-2 active:opacity-70 transition-opacity hover:bg-error-container/20" id="deleteDeadlineBtn" type="button">
+<span class="material-symbols-outlined text-[20px]">delete</span>
+<span>Delete Deadline</span>
+</button>
+</div>
+<!-- Native-style iOS Confirmation Dialog Modal (Hidden initially) -->
+<div class="hidden fixed inset-0 z-50 flex items-end sm:items-center justify-center p-4 bg-surface-lowest/80 backdrop-blur-sm transition-opacity duration-200" id="deleteConfirmSheet">
+<div class="w-full max-w-sm bg-surface-container-highest rounded-3xl p-5 shadow-2xl flex flex-col space-y-4">
+<div class="w-10 h-1 bg-outline-variant/60 rounded-full mx-auto sm:hidden mb-1"></div>
+<div class="flex items-center gap-3 text-error">
+<span class="material-symbols-outlined text-[24px]">warning</span>
+<h3 class="font-headline-sm text-headline-sm">Delete Assignment?</h3>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant">
+        Are you sure you want to delete <strong class="text-on-surface">"Mobile App Assignment"</strong>? This will detach calendar events and smart reminder notifications.
+      </p>
+<div class="flex gap-2 pt-2">
+<button class="flex-1 py-3 bg-surface-container-high rounded-xl font-headline-sm text-headline-sm text-on-surface" id="cancelDeleteBtn" type="button">
+          Keep It
+        </button>
+<button class="flex-1 py-3 bg-error-container text-on-error rounded-xl font-headline-sm text-headline-sm font-semibold" id="confirmDeleteBtn" type="button">
+          Delete
+        </button>
+</div>
+</div>
+</div>
+<!-- Completed State Celebration Toast / Feedback HUD -->
+<div class="hidden fixed bottom-12 inset-x-4 max-w-md mx-auto z-50 bg-tertiary-container text-on-tertiary-container px-4 py-3.5 rounded-2xl shadow-2xl flex items-center justify-between border-0 transition-transform" id="toastSuccess">
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-[24px]">verified</span>
+<span class="font-headline-sm text-headline-sm">Completed! Splendid execution.</span>
+</div>
+<button class="material-symbols-outlined text-[20px]" onclick="document.getElementById('toastSuccess').classList.add('hidden')" type="button">close</button>
+</div>
+</div>
+<!-- Micro-Interactivity Script -->
+<script>
+  (function() {
+    // Dynamic countdown clock ticking animation
+    let secondsRemaining = (2 * 86400) + (14 * 3600) + (35 * 60) + 22;
+    
+    const daysEl = document.getElementById('timer-days');
+    const hoursEl = document.getElementById('timer-hours');
+    const minsEl = document.getElementById('timer-mins');
+    const secsEl = document.getElementById('timer-secs');
+
+    function updateDisplay(totalSecs) {
+      if (totalSecs < 0) totalSecs = 0;
+      const d = Math.floor(totalSecs / 86400);
+      const h = Math.floor((totalSecs % 86400) / 3600);
+      const m = Math.floor((totalSecs % 3600) / 60);
+      const s = totalSecs % 60;
+
+      if (daysEl) daysEl.textContent = String(d).padStart(2, '0');
+      if (hoursEl) hoursEl.textContent = String(h).padStart(2, '0');
+      if (minsEl) minsEl.textContent = String(m).padStart(2, '0');
+      if (secsEl) secsEl.textContent = String(s).padStart(2, '0');
+    }
+
+    const interval = setInterval(() => {
+      secondsRemaining -= 1;
+      updateDisplay(secondsRemaining);
+      if (secondsRemaining <= 0) clearInterval(interval);
+    }, 1000);
+
+    // Delete confirmation sheet toggle
+    const deleteBtn = document.getElementById('deleteDeadlineBtn');
+    const deleteSheet = document.getElementById('deleteConfirmSheet');
+    const cancelDeleteBtn = document.getElementById('cancelDeleteBtn');
+    const confirmDeleteBtn = document.getElementById('confirmDeleteBtn');
+
+    if (deleteBtn && deleteSheet) {
+      deleteBtn.addEventListener('click', () => {
+        deleteSheet.classList.remove('hidden');
+      });
+    }
+
+    if (cancelDeleteBtn && deleteSheet) {
+      cancelDeleteBtn.addEventListener('click', () => {
+        deleteSheet.classList.add('hidden');
+      });
+    }
+
+    if (confirmDeleteBtn && deleteSheet) {
+      confirmDeleteBtn.addEventListener('click', () => {
+        deleteSheet.classList.add('hidden');
+        if (window.history.length > 1) {
+          window.history.back();
+        } else {
+          alert('Deadline removed from local store.');
+        }
+      });
+    }
+
+    // Mark as completed delight micro-interaction
+    const markBtn = document.getElementById('markCompleteBtn');
+    const toast = document.getElementById('toastSuccess');
+    if (markBtn && toast) {
+      markBtn.addEventListener('click', () => {
+        toast.classList.remove('hidden');
+        markBtn.innerHTML = '<span class="material-symbols-outlined text-[22px]">done_all</span><span>Completed</span>';
+        markBtn.classList.remove('bg-primary-container', 'text-on-primary-fixed');
+        markBtn.classList.add('bg-tertiary-container', 'text-on-tertiary-container');
+        setTimeout(() => {
+          toast.classList.add('hidden');
+        }, 3600);
+      });
+    }
+
+    // Top edit shortcuts
+    const editBtn = document.getElementById('editDeadlineBtn');
+    const topEditBtn = document.getElementById('topEditBtn');
+    const handleEdit = () => {
+      // Haptic tactile feedback simulation
+      navigator?.vibrate?.(10);
+    };
+    if (editBtn) editBtn.addEventListener('click', handleEdit);
+    if (topEditBtn) topEditBtn.addEventListener('click', handleEdit);
+  })();
+</script></main></body></html>

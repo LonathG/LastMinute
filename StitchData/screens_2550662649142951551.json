@@ -1,0 +1,96 @@
+{
+  "jsonrpc": "2.0",
+  "id": 2,
+  "result": {
+    "content": [
+      {
+        "text": "{\"screens\":[{\"name\":\"projects/2550662649142951551/screens/f88867a47be247429407870f428879d3\",\"title\":\"Deadline Details\",\"screenshot\":{\"name\":\"projects/7251014060582631050/screens/f88867a47be247429407870f428879d3/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1Xin5qgQJWoSK1bcSsa0YSBLaLEjHu3KF0St3gzsvpPMWmthIU9l9cC1KUnMnnOzLKwS-1O6aUV-7hmpg-kzIhJeYPtbYbcY1GbRwWR7JQoeXr8gJk8HjaWw2CSSl8yJZzUFesrCq-Ed_dx8w1SF3INa87qA4pS8TlFip7uqywpbEWxWIAHorX8HE8NaoELRJiuGGNlwgPJO4Y8ngG-jCCkehEODjDbQssv2YVI7DSdRaMkXCsIGY_Hm_o\"},\"htmlCode\":{\"name\":\"projects/7251014060582631050/screens/f88867a47be247429407870f428879d3/fileEntries/html\",\"downloadUrl\":\"https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlNGEwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"2762\",\"deviceType\":\"MOBILE\"},{\"name\":\"projects/2550662649142951551/screens/d135d175c7594eb9a4cf5e2e38a7efbf\",\"title\":\"Statistics\",\"screenshot\":{\"name\":\"projects/7251014060582631050/screens/d135d175c7594eb9a4cf5e2e38a7efbf/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1VPNsrryEjfSBqgM7HOGNzYQ95vv8VnXw2lZZpPyyHX4d_9IClpU3yiQrDkodBwnoCqmDuwk3eWu_8vwV05kJNXz0HHt30bZnmZu6fa9h9miEnznPj_ykWiLvXW4AKwspavxp52GHX03UgoKNJ5LgInx70ZQmflEw89iS6njJ6GMTdX1GNqglZH0nXgiz_fqw8IOf5uti3596K9PM3HTyPr2LO7PGntCmS-hwMsre5lLQZh0N5Zh1HsoOk\"},\"htmlCode\":{\"name\":\"projects/7251014060582631050/screens/d135d175c7594eb9a4cf5e2e38a7efbf/fileEntries/html\",\"downloadUrl\":\"https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlNjEwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"3304\",\"deviceType\":\"MOBILE\"},{\"name\":\"projects/2550662649142951551/screens/c7f436c46539452592d3ebcb80e9d895\",\"title\":\"Add Deadline\",\"screenshot\":{\"name\":\"projects/7251014060582631050/screens/c7f436c46539452592d3ebcb80e9d895/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1VTyU82_CoTLIWBmigXGJ_igubNIUmmofMRs5Um3tWu3a-3KHGopjXSeqlvgLxOqa666eDWoKnJXDzEIYd_uq3pIw2TZrfs1VoiTRMsTEH8pakgGdDywUOsNBbfz3No1m5s5h2He9Msw8U9Y9qmmd-ZCcRik8yiQNyuwnKPw0NezldPNL2p6PriM7iedeopCZL6UAObsvzSp3yk7NVgkyt1iGes4_dgCvM7Z5YaBJdEgxiL3GYJlsB23w\"},\"htmlCode\":{\"name\":\"projects/7251014060582631050/screens/c7f436c46539452592d3ebcb80e9d895/fileEntries/html\",\"downloadUrl\":\"https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlMzkwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"2958\",\"deviceType\":\"MOBILE\"},{\"name\":\"projects/2550662649142951551/screens/b0b611d774f044d68b87718f0da31ec1\",\"title\":\"Calendar\",\"screenshot\":{\"name\":\"projects/7251014060582631050/screens/b0b611d774f044d68b87718f0da31ec1/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1VCuMF1P1XaDZVTtwdef5PAynJFhfzVElF_vW6RzFJC_JBEHrBFht21UY9VXXYpPdwUlIUoHg6bTdlyPyF1nO7BULRrtnjkIOkoZo_5y-UR4vk8y69nLNYh0wYCefanVygb_-XHoXUJn_X0NjqpB0D5RlydiicWuR73kXxGBYuXy52ZqqrkOs9xudH_L1-8z2sSKIqJkvD8qcNt2zzAXeB08xrtOpISQUKulkjyRq-nxBl0dSwlkYgi_yE\"},\"htmlCode\":{\"name\":\"projects/7251014060582631050/screens/b0b611d774f044d68b87718f0da31ec1/fileEntries/html\",\"downloadUrl\":\"https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlNDYwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"1890\",\"deviceType\":\"MOBILE\"},{\"name\":\"projects/2550662649142951551/screens/8071248e076a4d508841b6bb7720648e\",\"title\":\"Home Dashboard\",\"screenshot\":{\"name\":\"projects/7251014060582631050/screens/8071248e076a4d508841b6bb7720648e/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1WtfVsb6svvh65cw284wHqSIiTYpprblEnuRCz3DCiuiWRNxah91hAgRJP-2SU4jUVSQck86dFOecENZyItd8z58KrYMWdanKC6yMqhb92uFir72iynxzq9sIElZY8PzPMwEspEC0KVIQZHUkkhG4h_KeSB2wEVEUMXnYxc3gsH4ioDlbytjy8RDYtV0sZG2S23vTVz-Wnnx0QxiLpWfNHNzuUw9CiY6lvXGyG0YbUzIu2xirY_YtStTE4\"},\"htmlCode\":{\"name\":\"projects/7251014060582631050/screens/8071248e076a4d508841b6bb7720648e/fileEntries/html\",\"downloadUrl\":\"https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlM2UwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"2266\",\"deviceType\":\"MOBILE\"}]}",
+        "type": "text"
+      }
+    ],
+    "structuredContent": {
+      "screens": [
+        {
+          "deviceType": "MOBILE",
+          "height": "2762",
+          "htmlCode": {
+            "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlNGEwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086",
+            "mimeType": "text/html",
+            "name": "projects/7251014060582631050/screens/f88867a47be247429407870f428879d3/fileEntries/html"
+          },
+          "name": "projects/2550662649142951551/screens/f88867a47be247429407870f428879d3",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xin5qgQJWoSK1bcSsa0YSBLaLEjHu3KF0St3gzsvpPMWmthIU9l9cC1KUnMnnOzLKwS-1O6aUV-7hmpg-kzIhJeYPtbYbcY1GbRwWR7JQoeXr8gJk8HjaWw2CSSl8yJZzUFesrCq-Ed_dx8w1SF3INa87qA4pS8TlFip7uqywpbEWxWIAHorX8HE8NaoELRJiuGGNlwgPJO4Y8ngG-jCCkehEODjDbQssv2YVI7DSdRaMkXCsIGY_Hm_o",
+            "name": "projects/7251014060582631050/screens/f88867a47be247429407870f428879d3/fileEntries/screenshot"
+          },
+          "title": "Deadline Details",
+          "width": "780"
+        },
+        {
+          "deviceType": "MOBILE",
+          "height": "3304",
+          "htmlCode": {
+            "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlNjEwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086",
+            "mimeType": "text/html",
+            "name": "projects/7251014060582631050/screens/d135d175c7594eb9a4cf5e2e38a7efbf/fileEntries/html"
+          },
+          "name": "projects/2550662649142951551/screens/d135d175c7594eb9a4cf5e2e38a7efbf",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VPNsrryEjfSBqgM7HOGNzYQ95vv8VnXw2lZZpPyyHX4d_9IClpU3yiQrDkodBwnoCqmDuwk3eWu_8vwV05kJNXz0HHt30bZnmZu6fa9h9miEnznPj_ykWiLvXW4AKwspavxp52GHX03UgoKNJ5LgInx70ZQmflEw89iS6njJ6GMTdX1GNqglZH0nXgiz_fqw8IOf5uti3596K9PM3HTyPr2LO7PGntCmS-hwMsre5lLQZh0N5Zh1HsoOk",
+            "name": "projects/7251014060582631050/screens/d135d175c7594eb9a4cf5e2e38a7efbf/fileEntries/screenshot"
+          },
+          "title": "Statistics",
+          "width": "780"
+        },
+        {
+          "deviceType": "MOBILE",
+          "height": "2958",
+          "htmlCode": {
+            "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlMzkwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086",
+            "mimeType": "text/html",
+            "name": "projects/7251014060582631050/screens/c7f436c46539452592d3ebcb80e9d895/fileEntries/html"
+          },
+          "name": "projects/2550662649142951551/screens/c7f436c46539452592d3ebcb80e9d895",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VTyU82_CoTLIWBmigXGJ_igubNIUmmofMRs5Um3tWu3a-3KHGopjXSeqlvgLxOqa666eDWoKnJXDzEIYd_uq3pIw2TZrfs1VoiTRMsTEH8pakgGdDywUOsNBbfz3No1m5s5h2He9Msw8U9Y9qmmd-ZCcRik8yiQNyuwnKPw0NezldPNL2p6PriM7iedeopCZL6UAObsvzSp3yk7NVgkyt1iGes4_dgCvM7Z5YaBJdEgxiL3GYJlsB23w",
+            "name": "projects/7251014060582631050/screens/c7f436c46539452592d3ebcb80e9d895/fileEntries/screenshot"
+          },
+          "title": "Add Deadline",
+          "width": "780"
+        },
+        {
+          "deviceType": "MOBILE",
+          "height": "1890",
+          "htmlCode": {
+            "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlNDYwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086",
+            "mimeType": "text/html",
+            "name": "projects/7251014060582631050/screens/b0b611d774f044d68b87718f0da31ec1/fileEntries/html"
+          },
+          "name": "projects/2550662649142951551/screens/b0b611d774f044d68b87718f0da31ec1",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VCuMF1P1XaDZVTtwdef5PAynJFhfzVElF_vW6RzFJC_JBEHrBFht21UY9VXXYpPdwUlIUoHg6bTdlyPyF1nO7BULRrtnjkIOkoZo_5y-UR4vk8y69nLNYh0wYCefanVygb_-XHoXUJn_X0NjqpB0D5RlydiicWuR73kXxGBYuXy52ZqqrkOs9xudH_L1-8z2sSKIqJkvD8qcNt2zzAXeB08xrtOpISQUKulkjyRq-nxBl0dSwlkYgi_yE",
+            "name": "projects/7251014060582631050/screens/b0b611d774f044d68b87718f0da31ec1/fileEntries/screenshot"
+          },
+          "title": "Calendar",
+          "width": "780"
+        },
+        {
+          "deviceType": "MOBILE",
+          "height": "2266",
+          "htmlCode": {
+            "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlM2UwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086",
+            "mimeType": "text/html",
+            "name": "projects/7251014060582631050/screens/8071248e076a4d508841b6bb7720648e/fileEntries/html"
+          },
+          "name": "projects/2550662649142951551/screens/8071248e076a4d508841b6bb7720648e",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WtfVsb6svvh65cw284wHqSIiTYpprblEnuRCz3DCiuiWRNxah91hAgRJP-2SU4jUVSQck86dFOecENZyItd8z58KrYMWdanKC6yMqhb92uFir72iynxzq9sIElZY8PzPMwEspEC0KVIQZHUkkhG4h_KeSB2wEVEUMXnYxc3gsH4ioDlbytjy8RDYtV0sZG2S23vTVz-Wnnx0QxiLpWfNHNzuUw9CiY6lvXGyG0YbUzIu2xirY_YtStTE4",
+            "name": "projects/7251014060582631050/screens/8071248e076a4d508841b6bb7720648e/fileEntries/screenshot"
+          },
+          "title": "Home Dashboard",
+          "width": "780"
+        }
+      ]
+    }
+  }
+}

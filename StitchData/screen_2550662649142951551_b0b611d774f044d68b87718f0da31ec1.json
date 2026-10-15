@@ -1,0 +1,28 @@
+{
+  "jsonrpc": "2.0",
+  "id": 6,
+  "result": {
+    "content": [
+      {
+        "text": "{\"name\":\"projects/2550662649142951551/screens/b0b611d774f044d68b87718f0da31ec1\",\"title\":\"Calendar\",\"screenshot\":{\"name\":\"projects/7251014060582631050/screens/b0b611d774f044d68b87718f0da31ec1/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1VCuMF1P1XaDZVTtwdef5PAynJFhfzVElF_vW6RzFJC_JBEHrBFht21UY9VXXYpPdwUlIUoHg6bTdlyPyF1nO7BULRrtnjkIOkoZo_5y-UR4vk8y69nLNYh0wYCefanVygb_-XHoXUJn_X0NjqpB0D5RlydiicWuR73kXxGBYuXy52ZqqrkOs9xudH_L1-8z2sSKIqJkvD8qcNt2zzAXeB08xrtOpISQUKulkjyRq-nxBl0dSwlkYgi_yE\"},\"htmlCode\":{\"name\":\"projects/7251014060582631050/screens/b0b611d774f044d68b87718f0da31ec1/fileEntries/html\",\"downloadUrl\":\"https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlNDYwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"1890\",\"deviceType\":\"MOBILE\"}",
+        "type": "text"
+      }
+    ],
+    "structuredContent": {
+      "deviceType": "MOBILE",
+      "height": "1890",
+      "htmlCode": {
+        "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlNDYwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086",
+        "mimeType": "text/html",
+        "name": "projects/7251014060582631050/screens/b0b611d774f044d68b87718f0da31ec1/fileEntries/html"
+      },
+      "name": "projects/2550662649142951551/screens/b0b611d774f044d68b87718f0da31ec1",
+      "screenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VCuMF1P1XaDZVTtwdef5PAynJFhfzVElF_vW6RzFJC_JBEHrBFht21UY9VXXYpPdwUlIUoHg6bTdlyPyF1nO7BULRrtnjkIOkoZo_5y-UR4vk8y69nLNYh0wYCefanVygb_-XHoXUJn_X0NjqpB0D5RlydiicWuR73kXxGBYuXy52ZqqrkOs9xudH_L1-8z2sSKIqJkvD8qcNt2zzAXeB08xrtOpISQUKulkjyRq-nxBl0dSwlkYgi_yE",
+        "name": "projects/7251014060582631050/screens/b0b611d774f044d68b87718f0da31ec1/fileEntries/screenshot"
+      },
+      "title": "Calendar",
+      "width": "780"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "jsonrpc": "2.0",
+  "id": 7,
+  "result": {
+    "content": [
+      {
+        "text": "{\"name\":\"projects/2550662649142951551/screens/8071248e076a4d508841b6bb7720648e\",\"title\":\"Home Dashboard\",\"screenshot\":{\"name\":\"projects/7251014060582631050/screens/8071248e076a4d508841b6bb7720648e/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1WtfVsb6svvh65cw284wHqSIiTYpprblEnuRCz3DCiuiWRNxah91hAgRJP-2SU4jUVSQck86dFOecENZyItd8z58KrYMWdanKC6yMqhb92uFir72iynxzq9sIElZY8PzPMwEspEC0KVIQZHUkkhG4h_KeSB2wEVEUMXnYxc3gsH4ioDlbytjy8RDYtV0sZG2S23vTVz-Wnnx0QxiLpWfNHNzuUw9CiY6lvXGyG0YbUzIu2xirY_YtStTE4\"},\"htmlCode\":{\"name\":\"projects/7251014060582631050/screens/8071248e076a4d508841b6bb7720648e/fileEntries/html\",\"downloadUrl\":\"https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlM2UwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"2266\",\"deviceType\":\"MOBILE\"}",
+        "type": "text"
+      }
+    ],
+    "structuredContent": {
+      "deviceType": "MOBILE",
+      "height": "2266",
+      "htmlCode": {
+        "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyZGQ3ZTVlM2UwMzM4NDhmOWEwMTViZjMxEgsSBxDckcWLuwwYAZIBIwoKcHJvamVjdF9pZBIVQhMyNTUwNjYyNjQ5MTQyOTUxNTUx&filename=&opi=89354086",
+        "mimeType": "text/html",
+        "name": "projects/7251014060582631050/screens/8071248e076a4d508841b6bb7720648e/fileEntries/html"
+      },
+      "name": "projects/2550662649142951551/screens/8071248e076a4d508841b6bb7720648e",
+      "screenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WtfVsb6svvh65cw284wHqSIiTYpprblEnuRCz3DCiuiWRNxah91hAgRJP-2SU4jUVSQck86dFOecENZyItd8z58KrYMWdanKC6yMqhb92uFir72iynxzq9sIElZY8PzPMwEspEC0KVIQZHUkkhG4h_KeSB2wEVEUMXnYxc3gsH4ioDlbytjy8RDYtV0sZG2S23vTVz-Wnnx0QxiLpWfNHNzuUw9CiY6lvXGyG0YbUzIu2xirY_YtStTE4",
+        "name": "projects/7251014060582631050/screens/8071248e076a4d508841b6bb7720648e/fileEntries/screenshot"
+      },
+      "title": "Home Dashboard",
+      "width": "780"
+    }
+  }
+}

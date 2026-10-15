@@ -1,0 +1,28 @@
+{
+  "jsonrpc": "2.0",
+  "id": 12,
+  "result": {
+    "content": [
+      {
+        "text": "{\"name\":\"projects/7251014060582631050/screens/c7f436c46539452592d3ebcb80e9d895\",\"title\":\"Add Deadline\",\"screenshot\":{\"name\":\"projects/7251014060582631050/screens/c7f436c46539452592d3ebcb80e9d895/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1VmQygylKkAXvxylziuu84kqsC2AuZKDOF1l8OJvs0LyIbbFcwUYsfNIpszweikkI_AKntI3t2U-GJ20oM63UpL_GtxW9-u8xNX5J-pxiNSX8mHHvsG99i3pDr-2NDYEQ-ssLnii8qaX33TRFrVsM6zIvHj9Vp24Rh1sfxh6Hne58-m_78H42tqSPFrX1nJQR22BkE_PEeJ_qnEJC2FFz2AqLqwNNmjLXX4KNpMMzbiCC5b2P50IMYlYnY\"},\"htmlCode\":{\"name\":\"projects/7251014060582631050/screens/c7f436c46539452592d3ebcb80e9d895/fileEntries/html\",\"downloadUrl\":\"https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyNDk3ODhiYjUwN2M0ZTRlNmY5MTNiMTNjEgsSBxDfssbrjhIYAZIBIwoKcHJvamVjdF9pZBIVQhM3MjUxMDE0MDYwNTgyNjMxMDUw&filename=&opi=89354086\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"2958\",\"deviceType\":\"MOBILE\"}",
+        "type": "text"
+      }
+    ],
+    "structuredContent": {
+      "deviceType": "MOBILE",
+      "height": "2958",
+      "htmlCode": {
+        "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyNDk3ODhiYjUwN2M0ZTRlNmY5MTNiMTNjEgsSBxDfssbrjhIYAZIBIwoKcHJvamVjdF9pZBIVQhM3MjUxMDE0MDYwNTgyNjMxMDUw&filename=&opi=89354086",
+        "mimeType": "text/html",
+        "name": "projects/7251014060582631050/screens/c7f436c46539452592d3ebcb80e9d895/fileEntries/html"
+      },
+      "name": "projects/7251014060582631050/screens/c7f436c46539452592d3ebcb80e9d895",
+      "screenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VmQygylKkAXvxylziuu84kqsC2AuZKDOF1l8OJvs0LyIbbFcwUYsfNIpszweikkI_AKntI3t2U-GJ20oM63UpL_GtxW9-u8xNX5J-pxiNSX8mHHvsG99i3pDr-2NDYEQ-ssLnii8qaX33TRFrVsM6zIvHj9Vp24Rh1sfxh6Hne58-m_78H42tqSPFrX1nJQR22BkE_PEeJ_qnEJC2FFz2AqLqwNNmjLXX4KNpMMzbiCC5b2P50IMYlYnY",
+        "name": "projects/7251014060582631050/screens/c7f436c46539452592d3ebcb80e9d895/fileEntries/screenshot"
+      },
+      "title": "Add Deadline",
+      "width": "780"
+    }
+  }
+}

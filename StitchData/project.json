@@ -1,0 +1,236 @@
+{
+  "jsonrpc": "2.0",
+  "id": 2,
+  "result": {
+    "content": [
+      {
+        "text": "{\"name\":\"projects/2550662649142951551\",\"title\":\"Remix of LastMinute iOS Deadline Manager\",\"visibility\":\"PRIVATE\",\"createTime\":\"2026-10-15T15:40:21.025815Z\",\"updateTime\":\"2026-10-15T15:40:21.025815Z\",\"projectType\":\"TEXT_TO_UI_PRO\",\"thumbnailScreenshot\":{\"name\":\"projects/7251014060582631050/screens/8071248e076a4d508841b6bb7720648e/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1WtfVsb6svvh65cw284wHqSIiTYpprblEnuRCz3DCiuiWRNxah91hAgRJP-2SU4jUVSQck86dFOecENZyItd8z58KrYMWdanKC6yMqhb92uFir72iynxzq9sIElZY8PzPMwEspEC0KVIQZHUkkhG4h_KeSB2wEVEUMXnYxc3gsH4ioDlbytjy8RDYtV0sZG2S23vTVz-Wnnx0QxiLpWfNHNzuUw9CiY6lvXGyG0YbUzIu2xirY_YtStTE4\"},\"origin\":\"STITCH\",\"deviceType\":\"MOBILE\",\"designTheme\":{\"colorMode\":\"DARK\",\"font\":\"PLUS_JAKARTA_SANS\",\"roundness\":\"ROUND_EIGHT\",\"customColor\":\"#f2cc7b\",\"headlineFont\":\"PLUS_JAKARTA_SANS\",\"bodyFont\":\"PLUS_JAKARTA_SANS\",\"labelFont\":\"PLUS_JAKARTA_SANS\",\"namedColors\":{\"surface_container\":\"#201f1f\",\"on_error_container\":\"#ffdad6\",\"on_tertiary_fixed\":\"#002114\",\"surface_container_highest\":\"#353535\",\"on_secondary_fixed_variant\":\"#5d4200\",\"secondary_container\":\"#694b00\",\"background\":\"#131313\",\"on_primary_fixed_variant\":\"#5b4300\",\"secondary_fixed\":\"#ffdea6\",\"on_tertiary\":\"#003825\",\"tertiary_container\":\"#92e1bb\",\"tertiary\":\"#aefed6\",\"on_secondary\":\"#412d00\",\"surface\":\"#131313\",\"inverse_primary\":\"#765a14\",\"on_tertiary_fixed_variant\":\"#005138\",\"surface_container_low\":\"#1c1b1b\",\"on_primary_fixed\":\"#251a00\",\"secondary\":\"#ecc06f\",\"secondary_fixed_dim\":\"#ecc06f\",\"error_container\":\"#93000a\",\"on_primary\":\"#3f2e00\",\"inverse_surface\":\"#e5e2e1\",\"tertiary_fixed_dim\":\"#88d6b1\",\"on_background\":\"#e5e2e1\",\"primary_fixed\":\"#ffdf9d\",\"primary_fixed_dim\":\"#e7c272\",\"error\":\"#ffb4ab\",\"surface_container_high\":\"#2a2a2a\",\"on_surface_variant\":\"#d0c5b3\",\"primary_container\":\"#f2cc7b\",\"outline\":\"#998f7f\",\"on_primary_container\":\"#70550e\",\"tertiary_fixed\":\"#a4f3cc\",\"on_error\":\"#690005\",\"on_surface\":\"#e5e2e1\",\"on_secondary_container\":\"#e7bc6c\",\"outline_variant\":\"#4d4638\",\"surface_variant\":\"#353535\",\"on_tertiary_container\":\"#0c6648\",\"surface_bright\":\"#393939\",\"surface_tint\":\"#e7c272\",\"on_secondary_fixed\":\"#271900\",\"surface_container_lowest\":\"#0e0e0e\",\"surface_dim\":\"#131313\",\"primary\":\"#ffebc6\",\"inverse_on_surface\":\"#313030\"},\"designMd\":\"---\\nname: Obsidian & Gilded Precision\\ncolors:\\n  surface: '#131313'\\n  surface-dim: '#131313'\\n  surface-bright: '#393939'\\n  surface-container-lowest: '#0e0e0e'\\n  surface-container-low: '#1c1b1b'\\n  surface-container: '#201f1f'\\n  surface-container-high: '#2a2a2a'\\n  surface-container-highest: '#353535'\\n  on-surface: '#e5e2e1'\\n  on-surface-variant: '#d0c5b3'\\n  inverse-surface: '#e5e2e1'\\n  inverse-on-surface: '#313030'\\n  outline: '#998f7f'\\n  outline-variant: '#4d4638'\\n  surface-tint: '#e7c272'\\n  primary: '#ffebc6'\\n  on-primary: '#3f2e00'\\n  primary-container: '#f2cc7b'\\n  on-primary-container: '#70550e'\\n  inverse-primary: '#765a14'\\n  secondary: '#ecc06f'\\n  on-secondary: '#412d00'\\n  secondary-container: '#694b00'\\n  on-secondary-container: '#e7bc6c'\\n  tertiary: '#aefed6'\\n  on-tertiary: '#003825'\\n  tertiary-container: '#92e1bb'\\n  on-tertiary-container: '#0c6648'\\n  error: '#ffb4ab'\\n  on-error: '#690005'\\n  error-container: '#93000a'\\n  on-error-container: '#ffdad6'\\n  primary-fixed: '#ffdf9d'\\n  primary-fixed-dim: '#e7c272'\\n  on-primary-fixed: '#251a00'\\n  on-primary-fixed-variant: '#5b4300'\\n  secondary-fixed: '#ffdea6'\\n  secondary-fixed-dim: '#ecc06f'\\n  on-secondary-fixed: '#271900'\\n  on-secondary-fixed-variant: '#5d4200'\\n  tertiary-fixed: '#a4f3cc'\\n  tertiary-fixed-dim: '#88d6b1'\\n  on-tertiary-fixed: '#002114'\\n  on-tertiary-fixed-variant: '#005138'\\n  background: '#131313'\\n  on-background: '#e5e2e1'\\n  surface-variant: '#353535'\\ntypography:\\n  display-countdown:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 56px\\n    fontWeight: '700'\\n    lineHeight: 60px\\n    letterSpacing: -0.03em\\n  display-countdown-mobile:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 44px\\n    fontWeight: '700'\\n    lineHeight: 48px\\n    letterSpacing: -0.025em\\n  headline-lg:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 34px\\n    fontWeight: '700'\\n    lineHeight: 41px\\n    letterSpacing: -0.02em\\n  headline-lg-mobile:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 28px\\n    fontWeight: '700'\\n    lineHeight: 34px\\n    letterSpacing: -0.015em\\n  headline-md:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 22px\\n    fontWeight: '600'\\n    lineHeight: 28px\\n    letterSpacing: -0.01em\\n  headline-sm:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 17px\\n    fontWeight: '600'\\n    lineHeight: 22px\\n    letterSpacing: -0.005em\\n  body-lg:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 17px\\n    fontWeight: '400'\\n    lineHeight: 24px\\n    letterSpacing: 0em\\n  body-md:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 15px\\n    fontWeight: '400'\\n    lineHeight: 20px\\n    letterSpacing: 0em\\n  label-numeric-mono:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 14px\\n    fontWeight: '600'\\n    lineHeight: 18px\\n    letterSpacing: 0.02em\\n  label-caps:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 11px\\n    fontWeight: '600'\\n    lineHeight: 13px\\n    letterSpacing: 0.06em\\n  caption:\\n    fontFamily: Plus Jakarta Sans\\n    fontSize: 12px\\n    fontWeight: '400'\\n    lineHeight: 16px\\n    letterSpacing: 0em\\nrounded:\\n  sm: 0.25rem\\n  DEFAULT: 0.5rem\\n  md: 0.75rem\\n  lg: 1rem\\n  xl: 1.5rem\\n  full: 9999px\\nspacing:\\n  gutter: 1rem\\n  gutter-tablet: 1.5rem\\n  margin: 1rem\\n  margin-tablet: 2rem\\n  space-xs: 0.25rem\\n  space-sm: 0.5rem\\n  space-md: 1rem\\n  space-lg: 1.5rem\\n  space-xl: 2rem\\n---\\n\\n## Brand & Style\\n\\nThe design system embodies the quiet luxury and calculated urgency of high-stakes timekeeping. It is engineered for discerning professionals, executives, and individuals who treat time not as an anxious rush, but as an exclusive, finite asset. \\n\\nDrawing from dark luxury minimalism and modern Apple Human Interface Guidelines (HIG), the aesthetic merges the restrained technical precision of horology with fluid digital tactile feedback. The emotional resonance is calm, composed authority under pressure: shifting time-sensitivity from panic into controlled focus.\\n\\nVisual principles:\\n- **Obsidian Foundations:** Deep, layered neutral surfaces (#191919 through #343434) eliminate visual clutter and eye fatigue, allowing countdown data to command primary focus.\\n- **Selective Gilded Radiance:** Muted warm gold tones (#F2CC7B and #D9AF60) are reserved strictly for high-priority markers, impending thresholds, and critical countdown metrics, delivering an unmistakable visual hierarchy.\\n- **Subtle Luminescence:** Interactive states, imminent timers, and active cards feature soft, ambient micro-glows rather than hard drop shadows.\\n- **Native iOS Elegance:** Strict adherence to iOS ergonomic ergonomics—utilizing standard 44pt tap boundaries, native translucent navigation chrome, smooth spring physics, and dynamic typography behavior.\\n\\n## Colors\\n\\nThe palette operates on a calibrated dark-mode hierarchy designed for depth, optical contrast, and selective high-value illumination.\\n\\n### Functional Roles\\n- **Canvas Base (`#191919`):** Root application canvas and non-scrollable background layer.\\n- **Grouped Canvas / Secondary Base (`#242424`):** Recessed containers, search wells, and secondary table backgrounds.\\n- **Card Surface (`#2C2C2C`):** Default resting state for interactive countdown cards and modules.\\n- **Elevated Card Surface (`#343434`):** Active sheets, modally presented cards, and pressed surface states.\\n- **Primary Accent Gold (`#F2CC7B`):** Active timer glyphs, key deadline values, and primary call-to-action fills.\\n- **Secondary Accent Gold (`#D9AF60`):** Progress ring tracks, secondary badges, and subtle borders on active elements.\\n- **Borders & Dividers (`#3D3D3D`):** Hairline edge separators and structural outlines; keep opacity low to preserve edge fluidity.\\n- **Semantic Feedback:**\\n  - **Success / Completed (`#7BC9A4`):** Fulfilled countdowns, completed targets, positive buffers.\\n  - **Critical / Overdue (`#E88787`):** Expired timers, zero-tolerance deadlines, critical alert states.\\n  - **Info / Planned (`#89A9D8`):** Informational notes, future scheduling sync, and peripheral calendar markers.\\n- **Typography:**\\n  - **Primary Text (`#FFFFFF`):** High-priority numerals, active headings, and emphasized states.\\n  - **Secondary Text (`#A6A6A6`):** Labels, countdown units (D / H / M / S), and contextual timestamps.\\n\\n## Typography\\n\\nThe typography strategy pairs executive clarity with high-precision numeric telemetry.\\n\\n- **Numerics & Tabular Alignment:** All countdown meters, ticking clocks, and numerical statistics must strictly employ monospaced numbers / tabular figures (`monospacedDigitSystemFont` in SwiftUI / OpenType `tnum`). This prevents layout jitter during real-time countdown renders.\\n- **Hierarchy & Case:** Secondary unit indicators (e.g., \\\"DAYS\\\", \\\"HOURS\\\", \\\"LEFT\\\") use `label-caps` styled in uppercase with intentional tracking (`0.06em`) and secondary text color (`#A6A6A6`).\\n- **Dynamic Type Scale:** All typographic tokens scale natively with iOS Dynamic Type accessibility tiers, preserving minimum relative contrast and vertical metrics.\\n\\n## Layout & Spacing\\n\\nLayout geometry follows Apple's native safe-area architecture, pairing full-bleed dark canvases with carefully padded horizontal content wells.\\n\\n- **Base Rhythm:** Spacing is rooted in an 8pt structural rhythm with 4pt half-steps for micro-alignments (`space-xs` = 4px, `space-sm` = 8px, `space-md` = 16px, `space-lg` = 24px, `space-xl` = 32px).\\n- **Mobile Margins:** Root views use a 16pt outer gutter (`margin`), expanding to 24pt/32pt on iPadOS environments.\\n- **Card Spacing:** Countdown stream items are vertically spaced using `space-md` (16pt) gaps. Internal padding within countdown cards strictly adheres to `space-lg` (24pt) on leading/trailing edges and 20pt on top/bottom edges.\\n- **Ergonomic Safe Zones:** Bottom interactive bars and floating action buttons maintain a minimum 16pt offset above the iOS Home Indicator zone.\\n\\n## Elevation & Depth\\n\\nVisual depth is communicated without muddy drop shadows, relying on tonal surface tiers, ultra-fine boundary definition, and selective radiance.\\n\\n- **Tonal Stepping:** Depth progresses through four explicit layers:\\n  1. Base Layer (`#191919`): Main viewport backdrop.\\n  2. Inset Layer (`#242424`): Recessed groups, text entry wells, and nested containers.\\n  3. Resting Card (`#2C2C2C`): Default elevation for cards and actionable elements.\\n  4. Modals & Popovers (`#343434`): Floating HUDs, quick-entry sheets, and action sheets.\\n- **Hairline Surface Rim:** Every card features a crisp 0.5pt to 1pt outer border tinted with `#3D3D3D` at 100% (or `#FFFFFF` at 6% opacity) to ensure clear edge definition against deep backgrounds.\\n- **Gilded Auroral Glow:**\\n  - For countdowns under active focus or approaching critical deadlines (e.g., under 24 hours), cards receive a warm radial backlight: `#F2CC7B` at 12–18% opacity, blur radius of 24pt, with a Y-offset of 4pt.\\n  - Standard cards utilize no ambient drop shadow; structural separation is purely tonal and border-defined.\\n- **Navigation Translucency:** Apple navigation bars and the bottom tab bar adopt native dark frosted material (`UIBlurEffect.Style.systemUltraThinMaterialDark`) layered over `#191919` with a subtle `#3D3D3D` bottom/top hairline.\\n\\n## Shapes\\n\\nThe design system employs continuous corner curvature (iOS squircle / smooth corner curve) to ensure cards and controls feel integrated into modern Apple displays.\\n\\n- **Countdown Cards:** 20pt to 24pt corner radius with continuous curvature.\\n- **Buttons & Floating Triggers:** Primary pill-shaped buttons use full capsule geometry (`radius: 9999px`) or 14pt corner curves on blocky action controls.\\n- **Badges, Tags & Input Fields:** 8pt to 10pt continuous radius (`space-sm` to `space-md`).\\n- **Touch Target Integrity:** Regardless of visual corner treatment, all interactive click and tap areas conform strictly to the 44×44pt minimum iOS tap target.\\n\\n## Components\\n\\n### Buttons\\n- **Primary Action (Capsule):** Solid `#F2CC7B` background with `#191919` bold typography. Height: 50pt with minimum width 120pt. Under press state, scales down to 0.97 with an opacity shift to 0.88.\\n- **Secondary Action:** Transparent fill, 1pt border in `#3D3D3D`, `#FFFFFF` typography. Pressed state shifts surface to `#242424`.\\n- **Destructive Action:** `#242424` background with `#E88787` typography and 1pt border in `#E88787` (30% alpha).\\n\\n### Cards (Countdown Module)\\n- **Structure:** Surface background `#2C2C2C`, 22pt continuous corner radius, 1pt stroke `#3D3D3D`.\\n- **Content Organization:** \\n  - Top line: Category pill badge (left) and contextual ellipsis trigger (right).\\n  - Center: Large tabular countdown units using `display-countdown-mobile`, featuring primary digits in `#FFFFFF` and label designations in `label-caps` (`#A6A6A6`).\\n  - Bottom line: Deadline date, time remaining ring, and urgent status chips.\\n- **Active State:** Approaching deadlines trigger a subtle ambient gold aura (`#F2CC7B` at 14% blur) and highlight the primary countdown numerals in `#F2CC7B`.\\n\\n### Input Fields & Pickers\\n- **Text Entry:** Background `#242424`, 14pt rounded corners, 48pt height, inset padding 16pt. Border shifts from `#3D3D3D` to `#F2CC7B` (60% alpha) upon active keyboard focus.\\n- **Date/Time Drum Pickers:** Native dark inline wheels with gold accent selection bands.\\n\\n### Chips & Badges\\n- **Status Chips:** Small form-factor capsule items (height: 24pt, padding: 4pt 10pt). Text in `label-caps`.\\n  - Normal: `#242424` fill, `#A6A6A6` text.\\n  - Critical / Today: `#341E1E` fill, `#E88787` text, `#E88787` border (20% alpha).\\n  - Completed: `#1C2E24` fill, `#7BC9A4` text, `#7BC9A4` border (20% alpha).\\n\\n### Native iOS Bars\\n- **Navigation Bar:** Large Title standard collapses dynamically into an inline title. Frosted background blur with white typography and `#F2CC7B` glyph actions.\\n- **Tab Bar:** Frosted ultra-thin dark blur. Unselected item icons colored `#A6A6A6`; active selected tab illuminates in `#F2CC7B` with micro gold indicator dot.\",\"colorVariant\":\"FIDELITY\",\"overridePrimaryColor\":\"#f2cc7b\",\"overrideSecondaryColor\":\"#d9af60\",\"overrideTertiaryColor\":\"#7bc9a4\",\"overrideNeutralColor\":\"#191919\",\"typography\":{\"headline-lg\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"34px\",\"fontWeight\":\"700\",\"lineHeight\":\"41px\",\"letterSpacing\":\"-0.02em\"},\"headline-lg-mobile\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"28px\",\"fontWeight\":\"700\",\"lineHeight\":\"34px\",\"letterSpacing\":\"-0.015em\"},\"display-countdown\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"56px\",\"fontWeight\":\"700\",\"lineHeight\":\"60px\",\"letterSpacing\":\"-0.03em\"},\"label-numeric-mono\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"14px\",\"fontWeight\":\"600\",\"lineHeight\":\"18px\",\"letterSpacing\":\"0.02em\"},\"headline-md\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"22px\",\"fontWeight\":\"600\",\"lineHeight\":\"28px\",\"letterSpacing\":\"-0.01em\"},\"label-caps\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"11px\",\"fontWeight\":\"600\",\"lineHeight\":\"13px\",\"letterSpacing\":\"0.06em\"},\"body-lg\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"17px\",\"fontWeight\":\"400\",\"lineHeight\":\"24px\",\"letterSpacing\":\"0em\"},\"display-countdown-mobile\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"44px\",\"fontWeight\":\"700\",\"lineHeight\":\"48px\",\"letterSpacing\":\"-0.025em\"},\"body-md\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"15px\",\"fontWeight\":\"400\",\"lineHeight\":\"20px\",\"letterSpacing\":\"0em\"},\"caption\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"12px\",\"fontWeight\":\"400\",\"lineHeight\":\"16px\",\"letterSpacing\":\"0em\"},\"headline-sm\":{\"fontFamily\":\"Plus Jakarta Sans\",\"fontSize\":\"17px\",\"fontWeight\":\"600\",\"lineHeight\":\"22px\",\"letterSpacing\":\"-0.005em\"}},\"spacing\":{\"space-md\":\"1rem\",\"space-sm\":\"0.5rem\",\"margin\":\"1rem\",\"margin-tablet\":\"2rem\",\"gutter-tablet\":\"1.5rem\",\"gutter\":\"1rem\",\"space-xs\":\"0.25rem\",\"space-lg\":\"1.5rem\",\"space-xl\":\"2rem\"},\"headlineFontFamily\":\"Plus Jakarta Sans\",\"bodyFontFamily\":\"Plus Jakarta Sans\",\"labelFontFamily\":\"Plus Jakarta Sans\"},\"screenInstances\":[{\"id\":\"8071248e076a4d508841b6bb7720648e\",\"sourceScreen\":\"projects/2550662649142951551/screens/8071248e076a4d508841b6bb7720648e\",\"x\":1932,\"width\":390,\"height\":1132,\"label\":\"deadlines\"},{\"id\":\"assets_27bc5d99ed544b8689ee1035e8238bfe\",\"width\":960,\"height\":540,\"sourceAsset\":\"assets/27bc5d99ed544b8689ee1035e8238bfe\",\"type\":\"DESIGN_SYSTEM_INSTANCE\"},{\"id\":\"b0b611d774f044d68b87718f0da31ec1\",\"sourceScreen\":\"projects/2550662649142951551/screens/b0b611d774f044d68b87718f0da31ec1\",\"x\":2386,\"width\":390,\"height\":945,\"label\":\"Calender\"},{\"id\":\"c7f436c46539452592d3ebcb80e9d895\",\"sourceScreen\":\"projects/2550662649142951551/screens/c7f436c46539452592d3ebcb80e9d895\",\"x\":1024,\"width\":390,\"height\":1479,\"label\":\"Main\"},{\"id\":\"d135d175c7594eb9a4cf5e2e38a7efbf\",\"sourceScreen\":\"projects/2550662649142951551/screens/d135d175c7594eb9a4cf5e2e38a7efbf\",\"x\":1478,\"width\":390,\"height\":1652,\"label\":\"Progress\"},{\"id\":\"f88867a47be247429407870f428879d3\",\"sourceScreen\":\"projects/2550662649142951551/screens/f88867a47be247429407870f428879d3\",\"x\":2840,\"width\":390,\"height\":1381,\"label\":\"Deadline Details\"}],\"metadata\":{\"userRole\":\"OWNER\",\"isRemixed\":true}}",
+        "type": "text"
+      }
+    ],
+    "structuredContent": {
+      "createTime": "2026-10-15T15:40:21.025815Z",
+      "designTheme": {
+        "bodyFont": "PLUS_JAKARTA_SANS",
+        "bodyFontFamily": "Plus Jakarta Sans",
+        "colorMode": "DARK",
+        "colorVariant": "FIDELITY",
+        "customColor": "#f2cc7b",
+        "designMd": "---\nname: Obsidian & Gilded Precision\ncolors:\n  surface: '#131313'\n  surface-dim: '#131313'\n  surface-bright: '#393939'\n  surface-container-lowest: '#0e0e0e'\n  surface-container-low: '#1c1b1b'\n  surface-container: '#201f1f'\n  surface-container-high: '#2a2a2a'\n  surface-container-highest: '#353535'\n  on-surface: '#e5e2e1'\n  on-surface-variant: '#d0c5b3'\n  inverse-surface: '#e5e2e1'\n  inverse-on-surface: '#313030'\n  outline: '#998f7f'\n  outline-variant: '#4d4638'\n  surface-tint: '#e7c272'\n  primary: '#ffebc6'\n  on-primary: '#3f2e00'\n  primary-container: '#f2cc7b'\n  on-primary-container: '#70550e'\n  inverse-primary: '#765a14'\n  secondary: '#ecc06f'\n  on-secondary: '#412d00'\n  secondary-container: '#694b00'\n  on-secondary-container: '#e7bc6c'\n  tertiary: '#aefed6'\n  on-tertiary: '#003825'\n  tertiary-container: '#92e1bb'\n  on-tertiary-container: '#0c6648'\n  error: '#ffb4ab'\n  on-error: '#690005'\n  error-container: '#93000a'\n  on-error-container: '#ffdad6'\n  primary-fixed: '#ffdf9d'\n  primary-fixed-dim: '#e7c272'\n  on-primary-fixed: '#251a00'\n  on-primary-fixed-variant: '#5b4300'\n  secondary-fixed: '#ffdea6'\n  secondary-fixed-dim: '#ecc06f'\n  on-secondary-fixed: '#271900'\n  on-secondary-fixed-variant: '#5d4200'\n  tertiary-fixed: '#a4f3cc'\n  tertiary-fixed-dim: '#88d6b1'\n  on-tertiary-fixed: '#002114'\n  on-tertiary-fixed-variant: '#005138'\n  background: '#131313'\n  on-background: '#e5e2e1'\n  surface-variant: '#353535'\ntypography:\n  display-countdown:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 56px\n    fontWeight: '700'\n    lineHeight: 60px\n    letterSpacing: -0.03em\n  display-countdown-mobile:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 44px\n    fontWeight: '700'\n    lineHeight: 48px\n    letterSpacing: -0.025em\n  headline-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 34px\n    fontWeight: '700'\n    lineHeight: 41px\n    letterSpacing: -0.02em\n  headline-lg-mobile:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 28px\n    fontWeight: '700'\n    lineHeight: 34px\n    letterSpacing: -0.015em\n  headline-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 22px\n    fontWeight: '600'\n    lineHeight: 28px\n    letterSpacing: -0.01em\n  headline-sm:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 17px\n    fontWeight: '600'\n    lineHeight: 22px\n    letterSpacing: -0.005em\n  body-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 17px\n    fontWeight: '400'\n    lineHeight: 24px\n    letterSpacing: 0em\n  body-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 15px\n    fontWeight: '400'\n    lineHeight: 20px\n    letterSpacing: 0em\n  label-numeric-mono:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 14px\n    fontWeight: '600'\n    lineHeight: 18px\n    letterSpacing: 0.02em\n  label-caps:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 11px\n    fontWeight: '600'\n    lineHeight: 13px\n    letterSpacing: 0.06em\n  caption:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 12px\n    fontWeight: '400'\n    lineHeight: 16px\n    letterSpacing: 0em\nrounded:\n  sm: 0.25rem\n  DEFAULT: 0.5rem\n  md: 0.75rem\n  lg: 1rem\n  xl: 1.5rem\n  full: 9999px\nspacing:\n  gutter: 1rem\n  gutter-tablet: 1.5rem\n  margin: 1rem\n  margin-tablet: 2rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2rem\n---\n\n## Brand & Style\n\nThe design system embodies the quiet luxury and calculated urgency of high-stakes timekeeping. It is engineered for discerning professionals, executives, and individuals who treat time not as an anxious rush, but as an exclusive, finite asset. \n\nDrawing from dark luxury minimalism and modern Apple Human Interface Guidelines (HIG), the aesthetic merges the restrained technical precision of horology with fluid digital tactile feedback. The emotional resonance is calm, composed authority under pressure: shifting time-sensitivity from panic into controlled focus.\n\nVisual principles:\n- **Obsidian Foundations:** Deep, layered neutral surfaces (#191919 through #343434) eliminate visual clutter and eye fatigue, allowing countdown data to command primary focus.\n- **Selective Gilded Radiance:** Muted warm gold tones (#F2CC7B and #D9AF60) are reserved strictly for high-priority markers, impending thresholds, and critical countdown metrics, delivering an unmistakable visual hierarchy.\n- **Subtle Luminescence:** Interactive states, imminent timers, and active cards feature soft, ambient micro-glows rather than hard drop shadows.\n- **Native iOS Elegance:** Strict adherence to iOS ergonomic ergonomics—utilizing standard 44pt tap boundaries, native translucent navigation chrome, smooth spring physics, and dynamic typography behavior.\n\n## Colors\n\nThe palette operates on a calibrated dark-mode hierarchy designed for depth, optical contrast, and selective high-value illumination.\n\n### Functional Roles\n- **Canvas Base (`#191919`):** Root application canvas and non-scrollable background layer.\n- **Grouped Canvas / Secondary Base (`#242424`):** Recessed containers, search wells, and secondary table backgrounds.\n- **Card Surface (`#2C2C2C`):** Default resting state for interactive countdown cards and modules.\n- **Elevated Card Surface (`#343434`):** Active sheets, modally presented cards, and pressed surface states.\n- **Primary Accent Gold (`#F2CC7B`):** Active timer glyphs, key deadline values, and primary call-to-action fills.\n- **Secondary Accent Gold (`#D9AF60`):** Progress ring tracks, secondary badges, and subtle borders on active elements.\n- **Borders & Dividers (`#3D3D3D`):** Hairline edge separators and structural outlines; keep opacity low to preserve edge fluidity.\n- **Semantic Feedback:**\n  - **Success / Completed (`#7BC9A4`):** Fulfilled countdowns, completed targets, positive buffers.\n  - **Critical / Overdue (`#E88787`):** Expired timers, zero-tolerance deadlines, critical alert states.\n  - **Info / Planned (`#89A9D8`):** Informational notes, future scheduling sync, and peripheral calendar markers.\n- **Typography:**\n  - **Primary Text (`#FFFFFF`):** High-priority numerals, active headings, and emphasized states.\n  - **Secondary Text (`#A6A6A6`):** Labels, countdown units (D / H / M / S), and contextual timestamps.\n\n## Typography\n\nThe typography strategy pairs executive clarity with high-precision numeric telemetry.\n\n- **Numerics & Tabular Alignment:** All countdown meters, ticking clocks, and numerical statistics must strictly employ monospaced numbers / tabular figures (`monospacedDigitSystemFont` in SwiftUI / OpenType `tnum`). This prevents layout jitter during real-time countdown renders.\n- **Hierarchy & Case:** Secondary unit indicators (e.g., \"DAYS\", \"HOURS\", \"LEFT\") use `label-caps` styled in uppercase with intentional tracking (`0.06em`) and secondary text color (`#A6A6A6`).\n- **Dynamic Type Scale:** All typographic tokens scale natively with iOS Dynamic Type accessibility tiers, preserving minimum relative contrast and vertical metrics.\n\n## Layout & Spacing\n\nLayout geometry follows Apple's native safe-area architecture, pairing full-bleed dark canvases with carefully padded horizontal content wells.\n\n- **Base Rhythm:** Spacing is rooted in an 8pt structural rhythm with 4pt half-steps for micro-alignments (`space-xs` = 4px, `space-sm` = 8px, `space-md` = 16px, `space-lg` = 24px, `space-xl` = 32px).\n- **Mobile Margins:** Root views use a 16pt outer gutter (`margin`), expanding to 24pt/32pt on iPadOS environments.\n- **Card Spacing:** Countdown stream items are vertically spaced using `space-md` (16pt) gaps. Internal padding within countdown cards strictly adheres to `space-lg` (24pt) on leading/trailing edges and 20pt on top/bottom edges.\n- **Ergonomic Safe Zones:** Bottom interactive bars and floating action buttons maintain a minimum 16pt offset above the iOS Home Indicator zone.\n\n## Elevation & Depth\n\nVisual depth is communicated without muddy drop shadows, relying on tonal surface tiers, ultra-fine boundary definition, and selective radiance.\n\n- **Tonal Stepping:** Depth progresses through four explicit layers:\n  1. Base Layer (`#191919`): Main viewport backdrop.\n  2. Inset Layer (`#242424`): Recessed groups, text entry wells, and nested containers.\n  3. Resting Card (`#2C2C2C`): Default elevation for cards and actionable elements.\n  4. Modals & Popovers (`#343434`): Floating HUDs, quick-entry sheets, and action sheets.\n- **Hairline Surface Rim:** Every card features a crisp 0.5pt to 1pt outer border tinted with `#3D3D3D` at 100% (or `#FFFFFF` at 6% opacity) to ensure clear edge definition against deep backgrounds.\n- **Gilded Auroral Glow:**\n  - For countdowns under active focus or approaching critical deadlines (e.g., under 24 hours), cards receive a warm radial backlight: `#F2CC7B` at 12–18% opacity, blur radius of 24pt, with a Y-offset of 4pt.\n  - Standard cards utilize no ambient drop shadow; structural separation is purely tonal and border-defined.\n- **Navigation Translucency:** Apple navigation bars and the bottom tab bar adopt native dark frosted material (`UIBlurEffect.Style.systemUltraThinMaterialDark`) layered over `#191919` with a subtle `#3D3D3D` bottom/top hairline.\n\n## Shapes\n\nThe design system employs continuous corner curvature (iOS squircle / smooth corner curve) to ensure cards and controls feel integrated into modern Apple displays.\n\n- **Countdown Cards:** 20pt to 24pt corner radius with continuous curvature.\n- **Buttons & Floating Triggers:** Primary pill-shaped buttons use full capsule geometry (`radius: 9999px`) or 14pt corner curves on blocky action controls.\n- **Badges, Tags & Input Fields:** 8pt to 10pt continuous radius (`space-sm` to `space-md`).\n- **Touch Target Integrity:** Regardless of visual corner treatment, all interactive click and tap areas conform strictly to the 44×44pt minimum iOS tap target.\n\n## Components\n\n### Buttons\n- **Primary Action (Capsule):** Solid `#F2CC7B` background with `#191919` bold typography. Height: 50pt with minimum width 120pt. Under press state, scales down to 0.97 with an opacity shift to 0.88.\n- **Secondary Action:** Transparent fill, 1pt border in `#3D3D3D`, `#FFFFFF` typography. Pressed state shifts surface to `#242424`.\n- **Destructive Action:** `#242424` background with `#E88787` typography and 1pt border in `#E88787` (30% alpha).\n\n### Cards (Countdown Module)\n- **Structure:** Surface background `#2C2C2C`, 22pt continuous corner radius, 1pt stroke `#3D3D3D`.\n- **Content Organization:** \n  - Top line: Category pill badge (left) and contextual ellipsis trigger (right).\n  - Center: Large tabular countdown units using `display-countdown-mobile`, featuring primary digits in `#FFFFFF` and label designations in `label-caps` (`#A6A6A6`).\n  - Bottom line: Deadline date, time remaining ring, and urgent status chips.\n- **Active State:** Approaching deadlines trigger a subtle ambient gold aura (`#F2CC7B` at 14% blur) and highlight the primary countdown numerals in `#F2CC7B`.\n\n### Input Fields & Pickers\n- **Text Entry:** Background `#242424`, 14pt rounded corners, 48pt height, inset padding 16pt. Border shifts from `#3D3D3D` to `#F2CC7B` (60% alpha) upon active keyboard focus.\n- **Date/Time Drum Pickers:** Native dark inline wheels with gold accent selection bands.\n\n### Chips & Badges\n- **Status Chips:** Small form-factor capsule items (height: 24pt, padding: 4pt 10pt). Text in `label-caps`.\n  - Normal: `#242424` fill, `#A6A6A6` text.\n  - Critical / Today: `#341E1E` fill, `#E88787` text, `#E88787` border (20% alpha).\n  - Completed: `#1C2E24` fill, `#7BC9A4` text, `#7BC9A4` border (20% alpha).\n\n### Native iOS Bars\n- **Navigation Bar:** Large Title standard collapses dynamically into an inline title. Frosted background blur with white typography and `#F2CC7B` glyph actions.\n- **Tab Bar:** Frosted ultra-thin dark blur. Unselected item icons colored `#A6A6A6`; active selected tab illuminates in `#F2CC7B` with micro gold indicator dot.",
+        "font": "PLUS_JAKARTA_SANS",
+        "headlineFont": "PLUS_JAKARTA_SANS",
+        "headlineFontFamily": "Plus Jakarta Sans",
+        "labelFont": "PLUS_JAKARTA_SANS",
+        "labelFontFamily": "Plus Jakarta Sans",
+        "namedColors": {
+          "background": "#131313",
+          "error": "#ffb4ab",
+          "error_container": "#93000a",
+          "inverse_on_surface": "#313030",
+          "inverse_primary": "#765a14",
+          "inverse_surface": "#e5e2e1",
+          "on_background": "#e5e2e1",
+          "on_error": "#690005",
+          "on_error_container": "#ffdad6",
+          "on_primary": "#3f2e00",
+          "on_primary_container": "#70550e",
+          "on_primary_fixed": "#251a00",
+          "on_primary_fixed_variant": "#5b4300",
+          "on_secondary": "#412d00",
+          "on_secondary_container": "#e7bc6c",
+          "on_secondary_fixed": "#271900",
+          "on_secondary_fixed_variant": "#5d4200",
+          "on_surface": "#e5e2e1",
+          "on_surface_variant": "#d0c5b3",
+          "on_tertiary": "#003825",
+          "on_tertiary_container": "#0c6648",
+          "on_tertiary_fixed": "#002114",
+          "on_tertiary_fixed_variant": "#005138",
+          "outline": "#998f7f",
+          "outline_variant": "#4d4638",
+          "primary": "#ffebc6",
+          "primary_container": "#f2cc7b",
+          "primary_fixed": "#ffdf9d",
+          "primary_fixed_dim": "#e7c272",
+          "secondary": "#ecc06f",
+          "secondary_container": "#694b00",
+          "secondary_fixed": "#ffdea6",
+          "secondary_fixed_dim": "#ecc06f",
+          "surface": "#131313",
+          "surface_bright": "#393939",
+          "surface_container": "#201f1f",
+          "surface_container_high": "#2a2a2a",
+          "surface_container_highest": "#353535",
+          "surface_container_low": "#1c1b1b",
+          "surface_container_lowest": "#0e0e0e",
+          "surface_dim": "#131313",
+          "surface_tint": "#e7c272",
+          "surface_variant": "#353535",
+          "tertiary": "#aefed6",
+          "tertiary_container": "#92e1bb",
+          "tertiary_fixed": "#a4f3cc",
+          "tertiary_fixed_dim": "#88d6b1"
+        },
+        "overrideNeutralColor": "#191919",
+        "overridePrimaryColor": "#f2cc7b",
+        "overrideSecondaryColor": "#d9af60",
+        "overrideTertiaryColor": "#7bc9a4",
+        "roundness": "ROUND_EIGHT",
+        "spacing": {
+          "gutter": "1rem",
+          "gutter-tablet": "1.5rem",
+          "margin": "1rem",
+          "margin-tablet": "2rem",
+          "space-lg": "1.5rem",
+          "space-md": "1rem",
+          "space-sm": "0.5rem",
+          "space-xl": "2rem",
+          "space-xs": "0.25rem"
+        },
+        "typography": {
+          "body-lg": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "letterSpacing": "0em",
+            "lineHeight": "24px"
+          },
+          "body-md": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "letterSpacing": "0em",
+            "lineHeight": "20px"
+          },
+          "caption": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "letterSpacing": "0em",
+            "lineHeight": "16px"
+          },
+          "display-countdown": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "56px",
+            "fontWeight": "700",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "60px"
+          },
+          "display-countdown-mobile": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "44px",
+            "fontWeight": "700",
+            "letterSpacing": "-0.025em",
+            "lineHeight": "48px"
+          },
+          "headline-lg": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "34px",
+            "fontWeight": "700",
+            "letterSpacing": "-0.02em",
+            "lineHeight": "41px"
+          },
+          "headline-lg-mobile": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "28px",
+            "fontWeight": "700",
+            "letterSpacing": "-0.015em",
+            "lineHeight": "34px"
+          },
+          "headline-md": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "28px"
+          },
+          "headline-sm": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "letterSpacing": "-0.005em",
+            "lineHeight": "22px"
+          },
+          "label-caps": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "11px",
+            "fontWeight": "600",
+            "letterSpacing": "0.06em",
+            "lineHeight": "13px"
+          },
+          "label-numeric-mono": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "letterSpacing": "0.02em",
+            "lineHeight": "18px"
+          }
+        }
+      },
+      "deviceType": "MOBILE",
+      "metadata": {
+        "isRemixed": true,
+        "userRole": "OWNER"
+      },
+      "name": "projects/2550662649142951551",
+      "origin": "STITCH",
+      "projectType": "TEXT_TO_UI_PRO",
+      "screenInstances": [
+        {
+          "height": 1132,
+          "id": "8071248e076a4d508841b6bb7720648e",
+          "label": "deadlines",
+          "sourceScreen": "projects/2550662649142951551/screens/8071248e076a4d508841b6bb7720648e",
+          "width": 390,
+          "x": 1932
+        },
+        {
+          "height": 540,
+          "id": "assets_27bc5d99ed544b8689ee1035e8238bfe",
+          "sourceAsset": "assets/27bc5d99ed544b8689ee1035e8238bfe",
+          "type": "DESIGN_SYSTEM_INSTANCE",
+          "width": 960
+        },
+        {
+          "height": 945,
+          "id": "b0b611d774f044d68b87718f0da31ec1",
+          "label": "Calender",
+          "sourceScreen": "projects/2550662649142951551/screens/b0b611d774f044d68b87718f0da31ec1",
+          "width": 390,
+          "x": 2386
+        },
+        {
+          "height": 1479,
+          "id": "c7f436c46539452592d3ebcb80e9d895",
+          "label": "Main",
+          "sourceScreen": "projects/2550662649142951551/screens/c7f436c46539452592d3ebcb80e9d895",
+          "width": 390,
+          "x": 1024
+        },
+        {
+          "height": 1652,
+          "id": "d135d175c7594eb9a4cf5e2e38a7efbf",
+          "label": "Progress",
+          "sourceScreen": "projects/2550662649142951551/screens/d135d175c7594eb9a4cf5e2e38a7efbf",
+          "width": 390,
+          "x": 1478
+        },
+        {
+          "height": 1381,
+          "id": "f88867a47be247429407870f428879d3",
+          "label": "Deadline Details",
+          "sourceScreen": "projects/2550662649142951551/screens/f88867a47be247429407870f428879d3",
+          "width": 390,
+          "x": 2840
+        }
+      ],
+      "thumbnailScreenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WtfVsb6svvh65cw284wHqSIiTYpprblEnuRCz3DCiuiWRNxah91hAgRJP-2SU4jUVSQck86dFOecENZyItd8z58KrYMWdanKC6yMqhb92uFir72iynxzq9sIElZY8PzPMwEspEC0KVIQZHUkkhG4h_KeSB2wEVEUMXnYxc3gsH4ioDlbytjy8RDYtV0sZG2S23vTVz-Wnnx0QxiLpWfNHNzuUw9CiY6lvXGyG0YbUzIu2xirY_YtStTE4",
+        "name": "projects/7251014060582631050/screens/8071248e076a4d508841b6bb7720648e/fileEntries/screenshot"
+      },
+      "title": "Remix of LastMinute iOS Deadline Manager",
+      "updateTime": "2026-10-15T15:40:21.025815Z",
+      "visibility": "PRIVATE"
+    }
+  }
+}

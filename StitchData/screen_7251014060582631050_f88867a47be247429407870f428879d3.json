@@ -1,0 +1,28 @@
+{
+  "jsonrpc": "2.0",
+  "id": 13,
+  "result": {
+    "content": [
+      {
+        "text": "{\"name\":\"projects/7251014060582631050/screens/f88867a47be247429407870f428879d3\",\"title\":\"Deadline Details\",\"screenshot\":{\"name\":\"projects/7251014060582631050/screens/f88867a47be247429407870f428879d3/fileEntries/screenshot\",\"downloadUrl\":\"https://lh3.googleusercontent.com/aida/AEtjO1XOPB-IlKlGO8LvRsIDmdTZA03Cd5Ra4WR5wiEzX-AWswDijb8os2guMRzSU27m-YEW9EDsOGLVLlxsMXI8FyDuWtYhku5MlsiafbM8PVF_e0iZM3gfR0Wl2iPFEgKx_n0Oj-asZmjOOwdXN-BxhIM4g_g13gie0hVqnLGWdHn6TFmqYO-w3vF8mcsWKYFMtbwVu5V_aipFQ0cQ_Tqj92JPz9iO4XVpPahPLy8oYTTLXAuM9cy6RYLt4g\"},\"htmlCode\":{\"name\":\"projects/7251014060582631050/screens/f88867a47be247429407870f428879d3/fileEntries/html\",\"downloadUrl\":\"https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyNDlkNTg2ZjMwMWE2MTQ0MjA2MmVjYzY1EgsSBxDfssbrjhIYAZIBIwoKcHJvamVjdF9pZBIVQhM3MjUxMDE0MDYwNTgyNjMxMDUw&filename=&opi=89354086\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"2762\",\"deviceType\":\"MOBILE\"}",
+        "type": "text"
+      }
+    ],
+    "structuredContent": {
+      "deviceType": "MOBILE",
+      "height": "2762",
+      "htmlCode": {
+        "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ7Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpaCiVodG1sXzAwMDY1ZGUyNDlkNTg2ZjMwMWE2MTQ0MjA2MmVjYzY1EgsSBxDfssbrjhIYAZIBIwoKcHJvamVjdF9pZBIVQhM3MjUxMDE0MDYwNTgyNjMxMDUw&filename=&opi=89354086",
+        "mimeType": "text/html",
+        "name": "projects/7251014060582631050/screens/f88867a47be247429407870f428879d3/fileEntries/html"
+      },
+      "name": "projects/7251014060582631050/screens/f88867a47be247429407870f428879d3",
+      "screenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XOPB-IlKlGO8LvRsIDmdTZA03Cd5Ra4WR5wiEzX-AWswDijb8os2guMRzSU27m-YEW9EDsOGLVLlxsMXI8FyDuWtYhku5MlsiafbM8PVF_e0iZM3gfR0Wl2iPFEgKx_n0Oj-asZmjOOwdXN-BxhIM4g_g13gie0hVqnLGWdHn6TFmqYO-w3vF8mcsWKYFMtbwVu5V_aipFQ0cQ_Tqj92JPz9iO4XVpPahPLy8oYTTLXAuM9cy6RYLt4g",
+        "name": "projects/7251014060582631050/screens/f88867a47be247429407870f428879d3/fileEntries/screenshot"
+      },
+      "title": "Deadline Details",
+      "width": "780"
+    }
+  }
+}

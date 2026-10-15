@@ -256,6 +256,8 @@
 				DEVELOPMENT_TEAM = HQXARH2ZT6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "LastMinute needs full access to your calendar to add, update, and remove deadline events.";
+				INFOPLIST_KEY_NSCalendarsUsageDescription = "LastMinute needs access to your calendar to export and synchronize assignment deadlines.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -288,6 +290,8 @@
 				DEVELOPMENT_TEAM = HQXARH2ZT6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "LastMinute needs full access to your calendar to add, update, and remove deadline events.";
+				INFOPLIST_KEY_NSCalendarsUsageDescription = "LastMinute needs access to your calendar to export and synchronize assignment deadlines.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
