@@ -1,10 +1,3 @@
-//
-//  LastMinuteApp.swift
-//  LastMinute
-//
-//  Created by Rusheni Botheju on 2026-10-15.
-//
-
 import SwiftUI
 import SwiftData
 
